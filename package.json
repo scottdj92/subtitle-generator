@@ -12,9 +12,11 @@
   "dependencies": {
     "@types/react": "^16.9.43",
     "@types/react-dom": "^16.9.8",
+    "dayjs": "^1.8.30",
     "parcel": "^1.12.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-hook-form": "^6.0.8",
     "typescript": "^3.9.7"
   }
 }
